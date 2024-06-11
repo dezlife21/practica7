@@ -1,0 +1,11 @@
+C:\Users\vadim\source\repos\praktika7\praktika7\bin\Debug\praktika7.exe.config
+C:\Users\vadim\source\repos\praktika7\praktika7\bin\Debug\praktika7.exe
+C:\Users\vadim\source\repos\praktika7\praktika7\bin\Debug\praktika7.pdb
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.fMain.resources
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.Properties.Resources.resources
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.exe
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.pdb
+C:\Users\vadim\source\repos\praktika7\praktika7\obj\Debug\praktika7.fTablet.resources
